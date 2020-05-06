@@ -1,2 +1,2 @@
-# Data_Science_Prof_Certificate_Capstone
-Final Project for the Data Science Professional Certificate
+# Data Science Prof Certificate_Capstone
+This repository contains the final project for the IBM Data Science Professional Certificate
